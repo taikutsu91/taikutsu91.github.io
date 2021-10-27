@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I&#39;m Raul</title>
+    <link>https://taikutsu91.github.io/</link>
+    <description>Recent content on I&#39;m Raul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <copyright>Theme by &lt;a href=&#39;https://github.com/MeiK2333/github-style&#39;&gt;github-style&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 26 Oct 2021 21:39:14 -0300</lastBuildDate><atom:link href="https://taikutsu91.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cursos 👨‍🏫</title>
+      <link>https://taikutsu91.github.io/cursos/</link>
+      <pubDate>Tue, 26 Oct 2021 21:39:14 -0300</pubDate>
+      
+      <guid>https://taikutsu91.github.io/cursos/</guid>
+      <description>Cursos 👨‍🏫</description>
+    </item>
+    
+  </channel>
+</rss>
